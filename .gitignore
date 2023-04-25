@@ -2,3 +2,6 @@ tmp/
 alignments/
 logs/
 times/
+*.log
+.ipynb_checkpoints/
+*.tar.gz
