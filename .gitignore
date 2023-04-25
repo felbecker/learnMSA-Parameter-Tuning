@@ -5,3 +5,4 @@ times/
 *.log
 .ipynb_checkpoints/
 *.tar.gz
+learnMSA
